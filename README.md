@@ -1,3 +1,5 @@
+
+link repository: https://sopimaulidia.github.io/Shoppie-Sport_/
 # Shoppie Sport 🏃‍♂️
 
 Website e-commerce perlengkapan olahraga — proyek tugas mata kuliah (Program Studi Administrasi Bisnis, S1). Dibangun dengan HTML, CSS, dan JavaScript murni (vanilla), tanpa framework maupun library eksternal.
